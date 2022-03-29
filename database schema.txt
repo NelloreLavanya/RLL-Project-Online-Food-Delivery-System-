@@ -1,0 +1,4 @@
+create database foodbox;
+use foodbox;
+select * from admin;
+insert into admin values("lavanya","lavanya");
